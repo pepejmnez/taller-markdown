@@ -24,7 +24,7 @@ void test(){
 [1]: wikipedia
 
 # Imagenes
-![Huesito](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fillustration%2Fhueso.html&psig=AOvVaw3NZevB5KiH9A97j9ufFlNq&ust=1695802439735000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjhksnqx4EDFQAAAAAdAAAAABAJ)
+![Huesito](https://prod.docsiteassets.roblox.com/assets/resources/npc-kit/Endorsed-NPC-Zombie.jpeg)
 
 # Imagenes internas
 ![npc](./images/foto1.jpg)
